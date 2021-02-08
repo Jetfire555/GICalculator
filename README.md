@@ -1,0 +1,2 @@
+# GICalculator
+Calculate genshin stuff
